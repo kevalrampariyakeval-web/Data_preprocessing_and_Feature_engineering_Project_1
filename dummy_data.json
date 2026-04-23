@@ -1,0 +1,50 @@
+[
+  {
+    "customer_id": 1,
+    "name": "Rahul Sharma",
+    "age": 28,
+    "income": 45000,
+    "purchases": 5,
+    "churn": 0
+  },
+  {
+    "customer_id": 2,
+    "name": "Priya Patel",
+    "age": 35,
+    "income": 62000,
+    "purchases": 8,
+    "churn": 1
+  },
+  {
+    "customer_id": 3,
+    "name": "Amit Verma",
+    "age": 42,
+    "income": 78000,
+    "purchases": 12,
+    "churn": 0
+  },
+  {
+    "customer_id": 4,
+    "name": "Sneha Joshi",
+    "age": 30,
+    "income": 51000,
+    "purchases": 6,
+    "churn": 1
+  },
+  {
+    "customer_id": 5,
+    "name": "Karan Mehta",
+    "age": 25,
+    "income": 39000,
+    "purchases": 3,
+    "churn": 0
+  },
+  {
+    "customer_id": 6,
+    "name": "Neha Singh",
+    "age": 38,
+    "income": 69000,
+    "purchases": 10,
+    "churn": 1
+  }
+]
